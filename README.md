@@ -1,2 +1,2 @@
-# PHP_TOOLS
-put php tools file
+#mini apps
+put mini apps file
